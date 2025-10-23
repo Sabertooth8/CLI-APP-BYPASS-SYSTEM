@@ -1,0 +1,9 @@
+{
+  "senin": ["Matematika", "Dasar Tjkt", "Axioo Class Program"],
+  "selasa": ["G.Literasi", "EC", "MTK", "Typing Ms Office", "Bahasa Indonesia"],
+  "rabu": ["Ipas", "Informatika", "Rekayasa Perangkat Lunak"],
+  "kamis": ["Sejarah", "Bahasa Inggris", "Bahasa Sunda", "Bahasa Jepang", "Olahraga"],
+  "jumat": ["Seni Budaya", "PPKN"],
+  "sabtu": ["Kompetensi Day"],
+  "minggu": ["Istirahat", "Persiapan Minggu Depan"]
+}
