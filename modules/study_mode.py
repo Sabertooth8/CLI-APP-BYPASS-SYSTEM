@@ -53,7 +53,7 @@ def show_intro_text():
     print("4. cari/search   → Cari isi catatan/materi")
     print("5. clean         → Bersihkan layar")
     print("6. help          → Lihat daftar perintah")
-    print("6. out           → Keluar dari Mode Belajar\n")
+    print("0. out           → Keluar dari Mode Belajar\n")
 
 def start():
     os.system("cls" if os.name == "nt" else "clear")
@@ -87,7 +87,8 @@ def start():
                 print("3. catatan       → Tulis / baca catatan")
                 print("4. cari          → Cari isi catatan/materi")
                 print("5. clean         → Bersihkan layar")
-                print("6. out           → Keluar dari Mode Belajar\n")
+                print("6. help          → Lihat daftar perintah")
+                print("0. out           → Keluar dari Mode Belajar\n")
             else:
                 print("[!] Perintah tidak dikenali.")
         except KeyboardInterrupt:
